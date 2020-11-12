@@ -18,6 +18,9 @@ h1 {
         color: maroon;
         font-size: 60px;
     }
+    .banner>img{
+        max-width: 100%;
+    }
 }
 
 /* * {
