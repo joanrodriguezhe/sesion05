@@ -1,13 +1,15 @@
-body{
+body {
     background-color: aqua;
 }
 
-@media (max-width: 575px){
-    body{
+@media (max-width: 575px) {
+    body {
         background-color: yellow;
     }
+    .navbar, .actions {
+        display: none;
+    }
 }
-
 
 /* * {
     margin: 0;
