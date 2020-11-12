@@ -16,10 +16,21 @@ h1 {
     }
     h1 {
         color: maroon;
-        font-size: 60px;
+        font-size: 30px;
     }
-    .banner>img{
+    .banner>img {
         max-width: 100%;
+    }
+    .publish {
+        padding: auto 30px;
+        text-align: center;
+    }
+    .publish h3 {
+        font-size: 20px;
+    }
+    .publish p {
+        font-size: 15px;
+        margin: 20px;
     }
 }
 
