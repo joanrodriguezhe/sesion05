@@ -1,4 +1,15 @@
-* {
+body{
+    background-color: aqua;
+}
+
+@media (max-width: 575px){
+    body{
+        background-color: yellow;
+    }
+}
+
+
+/* * {
     margin: 0;
     padding: 0;
     bottom: 0;
@@ -55,4 +66,4 @@ nav>ul>li>a {
 }
 .actions>a {
     color: green;
-}
+} */
